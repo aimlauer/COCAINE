@@ -53,4 +53,9 @@ Estando logueado con tus datos en [dameunaip](http://dameunaip.com.ar) entrá a 
 Deberías tener acceso a internet a partir de este momento, quedando el *EstadoCM* como Habilido.
 
 Ahora deberías tenerlo liberado.
+
+#### OBSERVACIONES
+A veces pasa que el login te dice que es incorrecto pero sólo tenés que volverlo a intentar no es que
+te banearon o algo por el estilo, el sistema de logeo funciona mal.
+
 > https://www.taringa.net/+ciencia_educacion/como-liberar-un-cablemodem-de-fibertel_1diuzo
