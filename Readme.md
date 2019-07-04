@@ -37,8 +37,16 @@ conseguir el número de cliente.
 6. Accedemos nuevamente a ![dameunaip](http://dameunaip.com.ar) y accedemos con el respectivos
 números de cliente y el id de componente obtenidos anteriormente.
 7. Editamos la URL para acceder directamente a LiberarCM.xhtml (http://dameunaip.com.ar/CVWebTecnico/auth/LiberarCM.xhtml).
-id cliente: 53064376
-id componente: 1017542027
-
-http://provisioning.fibertel.com.ar/CVWebTecnico/auth/LiberarCM.xhtml
-user:password service2:service
+Nos saldrá un login en donde usamos los siguientes datos:
+```
+Usuario: service2  
+Clave: service2" 
+```
+Se te va a reiniciar el router y vas a tener que volver a configurar toda tu WiFi de nuevo, simplemente
+desconectado el cable del router y dandole al botón Reset y accediendo a 192.168.0.1 volvés a poner como
+estaba todo.  
+Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido, si es tu caso.
+Hace lo siguiente:
+1. Acedé a ActivarCM desde acá (http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml).
+2. Y volvé a configurar tu WiFi desde ahí, se va a resetear tu router una vez más.
+Quedando así liberado el CM. 
