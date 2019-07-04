@@ -44,8 +44,9 @@ Nos saldrá un login en donde usamos los siguientes datos:
 Usuario: service2  
 Clave: service2 
 ```
-Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiFi de nuevo, simplemente
-desconectado el cable del módem y dandole al botón Reset y accediendo a 192.168.0.1 volvés a poner como
+Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiFi de nuevo si es que estás por WiFi si estás por cable seguí las instrucciones de abajo para terminar de configurarlo,
+podés volver a configurar tu WiFi simplemente desconectado el cable del módem y dandole al botón Reset 
+y accediendo a 192.168.0.1 volvés a poner como
 estaba todo.  
 #### ADVERTENCIA
 Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido pero si tenía acceso a [dameunaip](http://dameunaip.com.ar) y en Administrar.xhtml el **EstadoCM** estaba como _Pendiente_, si es tu caso, hace lo siguiente:
