@@ -33,7 +33,7 @@ En donde aparecerá un mensaje que contiene tu ID de Componente, algo como:
 ```
 El dispositivo que se intenta instalar ya está instalado en el producto 1412544028.
 ```
-5. Accedemos a [](http://provisioning.fibertel.com.ar/asp/nuevoII_passICC/confirma.asp) para
+5. Accedemos a http://provisioning.fibertel.com.ar/asp/nuevoII_passICC/confirma.asp para
 conseguir el número de cliente.
 6. Accedemos nuevamente a ![dameunaip](http://dameunaip.com.ar) y accedemos con el respectivos
 números de cliente y el id de componente obtenidos anteriormente.
