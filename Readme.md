@@ -41,11 +41,12 @@ números de cliente y el id de componente obtenidos anteriormente.
 Nos saldrá un login en donde usamos los siguientes datos:
 ```
 Usuario: service2  
-Clave: service2" 
+Clave: service2 
 ```
 Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiFi de nuevo, simplemente
 desconectado el cable del módem y dandole al botón Reset y accediendo a 192.168.0.1 volvés a poner como
 estaba todo.  
+### Advertencia
 Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido, si es tu caso.
 Hace lo siguiente:
 1. Acedé a ActivarCM desde acá (http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml).
