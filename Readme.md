@@ -26,7 +26,7 @@ El valor debe estar entre +35 a +49 dBmV
 ID Componente: 258277559     
 ID Cliente: 6432880
 ```
-3. En el menú a la izquierda, le damos a Administrar o editando la URL en la barra de direcciónes agregando /auth/Administrar.xhtml [](http://dameunaip.com.ar/CVWebTecnico/auth/Administrar.xhtml).
+3. En el menú a la izquierda, le damos a Administrar o editando la URL en la barra de direcciónes agregando /auth/Administrar.xhtml así http://dameunaip.com.ar/CVWebTecnico/auth/Administrar.xhtml.
 4. Accedemos a ActivarCM.html [](http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml)  
 En donde aparecerá un mensaje que contiene tu ID de Componente, algo como:
 ```
