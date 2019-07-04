@@ -3,11 +3,16 @@
 ### Verificar niveles de Downstream y Upstream normales.
 Podemos mirarlos visitando [DameUnaIp](http://dameunaip.com.ar) o [Provisioning](http://provisioning.fibertel.com.ar/) ambos redirigen a la misma dirección ip (181.30.128.34).
 #### Downstream Power Level
-_-10dBmV a + 10dBmV es aceptable para los módem.  
+```
+-10dBmV a + 10dBmV es aceptable para los módem.   
 -7dBmV A + 7dBmV es el rango ideal y es también el rango especificado para módem de telefonía.   
-Un técnico de instalación tendría como objetivo, por un valor cercano a al valor 0 dBmV_
+Un técnico de instalación tendría como objetivo, por un valor cercano a al valor 0 dBmV
+```
 #### Downstream Signal to Noise Ratio (SNR)
-_Este número debe ser al menos mayor de +33 dB. Más alto es mejor. Cualquier valor por debajo de 33dB es probable que tenga transferencias lentas, problemas de conexiones, etc._
+```
+Este número debe ser al menos mayor de +33 dB. Más alto es mejor.     
+Cualquier valor por debajo de 33dB es probable que tenga transferencias lentas, problemas de conexiones, etc.
+```
 #### Upstream Power Level
 El valor debe estar entre +35 a +49 dBmV  
 
