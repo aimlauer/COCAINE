@@ -44,7 +44,7 @@ Nos saldrá un login en donde usamos los siguientes datos:
 Usuario: service2  
 Clave: service2 
 ```
-Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiFi de nuevo si es que te conectás por WiFi si estás por cable seguí las instrucciones de abajo para terminar de configurarlo,
+Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiFi de nuevo si es que estás conectado por WiFi, si usás cable seguí las instrucciones de abajo para terminar de configurarlo,
 podés volver a configurar tu WiFi simplemente desconectado el cable del módem y dandole al botón Reset 
 y accediendo a 192.168.0.1 volvés a poner como
 estaba todo.  
