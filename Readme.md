@@ -50,7 +50,7 @@ estaba todo.
 10. Estando en este paso me pasó que no podía acceder a ninguna página con el led de ONLINE prendido pero si tenía acceso a [dameunaip](http://dameunaip.com.ar) y en Administrar.xhtml el **EstadoCM** estaba como _Pendiente_, si es tu caso, hace lo siguiente:    
 Estando logueado con tus datos en [dameunaip](http://dameunaip.com.ar) entrá a ActivarCM desde acá (http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml) dale a "Continuar".
 11. Y volvé a configurar tu WiFi desde ahí, se va a resetear tu módem una vez más.
-Deberías tener acceso a internet a partir de este momento, quedando el *EstadoCM* como Habilido.
+Deberías tener acceso a internet a partir de este momento, quedando el *EstadoCM* como Habilitado.
 
 Ahora deberías tenerlo liberado.
 
