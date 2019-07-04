@@ -47,7 +47,7 @@ Clave: service2
 9. Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiFi de nuevo si es que estás conectado por WiFi, si usás cable seguí las instrucciones de abajo para terminar de configurarlo,
 podés restablecer los datos de tu WiFi simplemente desconectado el cable coaxial del módem, dándole al Reset y accediendo a 192.168.0.1 volvés a poner como
 estaba todo.  
-10. Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido pero si tenía acceso a [dameunaip](http://dameunaip.com.ar) y en Administrar.xhtml el **EstadoCM** estaba como _Pendiente_, si es tu caso, hace lo siguiente:    
+10. Estando en este paso me pasó que no podía acceder a ninguna página con el led de ONLINE prendido pero si tenía acceso a [dameunaip](http://dameunaip.com.ar) y en Administrar.xhtml el **EstadoCM** estaba como _Pendiente_, si es tu caso, hace lo siguiente:    
 Estando logueado con tus datos en [dameunaip](http://dameunaip.com.ar) entrá a ActivarCM desde acá (http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml) dale a "Continuar".
 11. Y volvé a configurar tu WiFi desde ahí, se va a resetear tu módem una vez más.
 Deberías tener acceso a internet a partir de este momento, quedando el *EstadoCM* como Habilido.
