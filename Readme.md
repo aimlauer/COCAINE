@@ -46,9 +46,10 @@ Clave: service2
 Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiFi de nuevo, simplemente
 desconectado el cable del módem y dandole al botón Reset y accediendo a 192.168.0.1 volvés a poner como
 estaba todo.  
-### Advertencia
-Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido, si es tu caso.
-Hace lo siguiente:
-1. Acedé a ActivarCM desde acá (http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml).
+#### ADVERTENCIA
+Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido y cuando accedí a Administrar.xhtml el *EstadoCM* estaba como Pendiente, si es tu caso, hace lo siguiente:
+1. Estando logueado con tus datos en ![dameunaip](http://dameunaip.com.ar) entrá a ActivarCM desde acá (http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml) seguí las instrucciones dandole a "Continuar".
 2. Y volvé a configurar tu WiFi desde ahí, se va a resetear tu módem una vez más.
-Quedando así liberado el CM. 
+Deberías tener acceso a internet a partir de este momento, quedando el *EstadoCM* como Habilido.
+
+Fuentes: https://www.taringa.net/+ciencia_educacion/como-liberar-un-cablemodem-de-fibertel_1diuzo
