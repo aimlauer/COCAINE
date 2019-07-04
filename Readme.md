@@ -53,4 +53,5 @@ Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido p
 2. Y volvé a configurar tu WiFi desde ahí, se va a resetear tu módem una vez más.
 Deberías tener acceso a internet a partir de este momento, quedando el *EstadoCM* como Habilido.
 
+Ahora deberías tenerlo liberado.
 > https://www.taringa.net/+ciencia_educacion/como-liberar-un-cablemodem-de-fibertel_1diuzo
