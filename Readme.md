@@ -47,7 +47,7 @@ Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiF
 desconectado el cable del módem y dandole al botón Reset y accediendo a 192.168.0.1 volvés a poner como
 estaba todo.  
 #### ADVERTENCIA
-Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido pero si tenía acceso a ![dameunaip](http://dameunaip.com.ar) y en Administrar.xhtml el *EstadoCM* estaba como Pendiente, si es tu caso, hace lo siguiente:
+Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido pero si tenía acceso a ![dameunaip](http://dameunaip.com.ar) y en Administrar.xhtml el **EstadoCM** estaba como _Pendiente_, si es tu caso, hace lo siguiente:
 1. Estando logueado con tus datos en ![dameunaip](http://dameunaip.com.ar) entrá a ActivarCM desde acá (http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml) seguí las instrucciones dandole a "Continuar".
 2. Y volvé a configurar tu WiFi desde ahí, se va a resetear tu módem una vez más.
 Deberías tener acceso a internet a partir de este momento, quedando el *EstadoCM* como Habilido.
