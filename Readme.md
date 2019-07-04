@@ -33,11 +33,12 @@ En donde aparecerá un mensaje que contiene tu ID de Componente, algo como:
 ```
 El dispositivo que se intenta instalar ya está instalado en el producto 1412544028.
 ```
-5. Accedemos a http://provisioning.fibertel.com.ar/asp/nuevoII_passICC/confirma.asp para
+5. Ahora vamos a http://provisioning.fibertel.com.ar/asp/nuevoII_passICC/confirma.asp para
 conseguir el número de cliente.
-6. Vamos nuevamente a [dameunaip](http://dameunaip.com.ar) y nos logueamos con los respectivos datos
+6. Desconectate de esa cuenta.
+7. Vamos nuevamente a [dameunaip](http://dameunaip.com.ar) y nos logueamos con los respectivos datos
 obtenidos anteriormente.
-7. Editamos la URL para acceder directamente a LiberarCM.xhtml (http://dameunaip.com.ar/CVWebTecnico/auth/LiberarCM.xhtml).
+8. Editamos la URL para acceder directamente a LiberarCM.xhtml (http://dameunaip.com.ar/CVWebTecnico/auth/LiberarCM.xhtml).
 Nos saldrá un login en donde usamos los siguientes datos:
 ```
 Usuario: service2  
