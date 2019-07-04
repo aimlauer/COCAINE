@@ -13,6 +13,7 @@ Un técnico de instalación tendría como objetivo, por un valor cercano a al va
 Este número debe ser al menos mayor de +33 dB. Más alto es mejor.     
 Cualquier valor por debajo de 33dB es probable que tenga transferencias lentas, problemas de conexiones, etc.
 ```
+A este valor lo podés mirar cuando desconectás el coaxial y lo reseteás.
 #### Upstream Power Level
 ```
 El valor debe estar entre +35 a +49 dBmV
@@ -42,11 +43,11 @@ Nos saldrá un login en donde usamos los siguientes datos:
 Usuario: service2  
 Clave: service2" 
 ```
-Se te va a reiniciar el router y vas a tener que volver a configurar toda tu WiFi de nuevo, simplemente
-desconectado el cable del router y dandole al botón Reset y accediendo a 192.168.0.1 volvés a poner como
+Se te va a reiniciar el módem y vas a tener que volver a configurar toda tu WiFi de nuevo, simplemente
+desconectado el cable del módem y dandole al botón Reset y accediendo a 192.168.0.1 volvés a poner como
 estaba todo.  
 Me pasó que no podía acceder a ninguna página con el led de ONLINE prendido, si es tu caso.
 Hace lo siguiente:
 1. Acedé a ActivarCM desde acá (http://dameunaip.com.ar/CVWebTecnico/auth/ActivarCM.xhtml).
-2. Y volvé a configurar tu WiFi desde ahí, se va a resetear tu router una vez más.
+2. Y volvé a configurar tu WiFi desde ahí, se va a resetear tu módem una vez más.
 Quedando así liberado el CM. 
