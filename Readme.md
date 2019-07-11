@@ -1,5 +1,17 @@
 ## Fibertel
 
+Significado de cada LED.     
+| LED           | Color         |   Descripción                                                                                                                                            |
+| ------------- | ------------- | -----------------                                                                                                                                        |
+| Power         | Green         | Successfully connected or router at 10/100 Mbps.                                                                                                         |
+| Ethnet        | Green/Blue    | Modem is scanning for a downstream channel. A solid LED means the downstream connection is established from the cable network/Internet.                  |
+| DS            | Blinks Green  | Modem is ranging, trying to establish an upstream connection. A solid LED means the downstream connection is established to the cable network/Internet.  |
+| US            | Blinks Green  | Modem is ranging, trying to establish an upstream connection. |
+| US & DS       | Blinking G/B  |  Indicates a modem firmware upgrade in progress. This should last 3-5 minutes. |
+| Ready         | Green         | Modem successfully registered with the ISP network                                                                                                        |
+
+
+
 ### Verificar niveles de Downstream y Upstream normales.
 Podemos mirarlos visitando [dameunaip](http://dameunaip.com.ar) o [provisioning](http://provisioning.fibertel.com.ar/) ambos redirigen a la misma dirección ip (181.30.128.34).
 #### Downstream Power Level
