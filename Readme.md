@@ -2,7 +2,7 @@
 
 Significado de cada LED.     
 | LED           | Color         |   Descripción                                                                                                                                            |
-| ------------- | ------------- | -----------------                                                                                                                                        |
+| ------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Power         | Green         | Successfully connected or router at 10/100 Mbps.                                                                                                         |
 | Ethnet        | Green/Blue    | Modem is scanning for a downstream channel. A solid LED means the downstream connection is established from the cable network/Internet.                  |
 | DS            | Blinks Green  | Modem is ranging, trying to establish an upstream connection. A solid LED means the downstream connection is established to the cable network/Internet.  |
